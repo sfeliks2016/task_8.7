@@ -1,8 +1,8 @@
 // plik scripts.js tablice
 
-var femaleNames = ['jola', 'kasia', 'ewa', 'sandra', 'karolina'];
+var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola'];
 
-var maleNames = ['piotrek', 'robert', 'michal', 'kamil', 'adam'];
+var maleNames = ['Piotrek', 'Marek', 'Arek', 'Jarek'];
 
 var allNames = femaleNames.concat(maleNames);   
 
